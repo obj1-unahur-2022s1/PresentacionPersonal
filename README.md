@@ -7,4 +7,4 @@ Estudiante de Tecnicatura Informatica en la UNAHUR
 
 # dejo una reflexión(?
 
-![https://github.com/cdvitola/presentacion/blob/main/meme.jpg]("somos todos")
+![https://github.com/cdvitola/presentacion/blob/main/meme.jpg] ("somos todos")
