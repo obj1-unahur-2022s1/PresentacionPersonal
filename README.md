@@ -1,5 +1,5 @@
 # Presentación de Programación con Objetos I
-- [x] Universidad Nacional de Hurlingham- [UNAHUR[(https://unahur.edu.ar)
+- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
 - [x] Licenciatura en Informática
 - [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
